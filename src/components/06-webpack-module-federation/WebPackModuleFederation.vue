@@ -21,9 +21,9 @@ export default {
     <section id="config">
       <Config />
     </section>
-    <section id="when-to-use-it">
+ <!--   <section id="when-to-use-it">
       <WhenToUseIt />
-    </section>
+    </section> -->
   </section>
 </template>
 

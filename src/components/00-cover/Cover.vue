@@ -14,6 +14,9 @@
           alt="Logo Kaizen Blanc"
         />
       </div>
+      <div class="qr-code">
+        <img class="m0" src="/src/assets/qrc.png" alt="QR Code Slides" />
+      </div>
     </div>
   </section>
 </template>
@@ -25,5 +28,9 @@
 
 #cover div img.kaizen-logo {
   @apply m-auto w-72;
+}
+
+#cover div.qr-code {
+  @apply absolute bottom-0 right-0 m-16 w-16 m-6 md:w-44;
 }
 </style>
