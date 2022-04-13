@@ -15,10 +15,10 @@ export default {
         />
         <Cover />
         <Bio />
-        <FromMonolithicToMicroservice />
+      <!--  <FromMonolithicToMicroservice /> -->
         <Microfrontends />
-        <OurChallenge />
-        <Modules />
+     <!--   <OurChallenge /> -->
+      <!--  <Modules /> -->
         <WebPackModuleFederation />
         <AngularDemo />
         <VueDemo />
