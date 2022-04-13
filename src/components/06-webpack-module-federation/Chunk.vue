@@ -33,8 +33,8 @@ export default {
           <div class="absolute module bottom-3 left-14 z-20">Module 2</div>
           <div class="absolute module bottom-5 left-16 z-10">Module 3</div>
         </div>
-        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="" />
-        <img class="m0 h-32" src="/src/assets/closed-box.png" alt="" />
+        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="Arrow" />
+        <img class="m0 h-32" src="/src/assets/closed-box.png" alt="Box" />
       </div>
     </div>
   </div>

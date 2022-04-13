@@ -22,9 +22,9 @@ export default {
         relative
       "
     >
-      <img class="w-14" src="/src/assets/html.png" alt="" />
-      <img class="w-14" src="/src/assets/javascript.png" alt="" />
-      <img class="w-14" src="/src/assets/css.png" alt="" />
+      <img class="w-14" src="/src/assets/html.png" alt="Html logo" />
+      <img class="w-14" src="/src/assets/javascript.png" alt="JS logo" />
+      <img class="w-14" src="/src/assets/css.png" alt="CSS logo" />
       <div
         class="
           absolute

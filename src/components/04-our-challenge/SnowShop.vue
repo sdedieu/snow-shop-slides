@@ -12,7 +12,7 @@ export default {
     </div>
           <div class="flex flex-col grow items-center justify-center">
         <img
-          class="schema-full-screen" src="/src/assets/snowshop.png" alt="" />
+          class="schema-full-screen" src="/src/assets/snowshop.png" alt="Snowshop website" />
     </div>
   </div>
 </template>

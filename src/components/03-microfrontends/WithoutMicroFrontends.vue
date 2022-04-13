@@ -13,7 +13,7 @@ export default {
         <img
           class="schema-full-screen sized"
           src="/src/assets/without_microfrontends.png"
-          alt=""
+          alt="Microservices architecture"
         />
         <div class="absolute bottom-2 right-2 text-sm text-devoxx-cyan">
           Schéma tiré du livre "Building Micro-frontends" – Luca Mezzalira

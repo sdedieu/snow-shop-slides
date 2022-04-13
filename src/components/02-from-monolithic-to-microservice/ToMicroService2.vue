@@ -10,9 +10,9 @@ export default {
       <h5>VERS UNE ARCHITECTURE MICROSERVICE</h5>
     </div>
     <div class="flex flex-row grow items-center justify-center">
-      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="" />
-      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="" />
-      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="" />
+      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="Domain Bloc" />
+      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="Domain Bloc" />
+      <img class="w-16 md:w-32" src="/src/assets/domain_bloc.png" alt="Domain Bloc" />
     </div>
   </div>
 </template>

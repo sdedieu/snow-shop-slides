@@ -11,7 +11,7 @@ export default {
       <h5>EXEMPLE AVEC ANGULARJS</h5>
     </div>
     <div class="cover-container">
-        <img src="/src/assets/angularjs-logo.png" alt="" />
+        <img src="/src/assets/angularjs-logo.png" alt="AngularJS Logo" />
     </div>
   </div>
 </template>

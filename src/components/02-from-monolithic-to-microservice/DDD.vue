@@ -11,14 +11,14 @@ export default {
     </div>
 <div class="grid grow md:gap-4 grid-cols-3">
       <div class="col-span-2 p-1 md:p-4 flex flex-row items-center justify-center">
-        <img class="w-full md:w-3/4" src="/src/assets/domain_driven_design.png" alt="" />
+        <img class="w-full md:w-3/4" src="/src/assets/domain_driven_design.png" alt="Domain Driven Design" />
       </div>
       <div class="relative p-1 md:p-12 flex flex-row items-center justify-center">
-         <img class="w-full md:w-3/4" src="/src/assets/ddd_eric_evans.jpeg" alt="" />
+         <img class="w-full md:w-3/4" src="/src/assets/ddd_eric_evans.jpeg" alt="Domain Driven Design - Eric Evans" />
         <img
           class="absolute left-0 bottom-8 md:bottom-0 w-2/3 md:w-1/2"
           src="/src/assets/enterprise_angular_microfrontends.webp"
-          alt=""
+          alt="Enterprise Angular Mucrofrontends - Manfred Steyer"
         />
       </div>
     </div>

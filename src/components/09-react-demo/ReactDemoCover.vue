@@ -11,7 +11,7 @@ export default {
       <h5>EXEMPLE AVEC REACT</h5>
     </div>
    <div class="cover-container">
-        <img src="/src/assets/react-logo.png" alt="" />
+        <img src="/src/assets/react-logo.png" alt="React Logo" />
     </div>
   </div>
 </template>

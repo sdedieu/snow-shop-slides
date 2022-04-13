@@ -10,7 +10,7 @@ export default {
       <h5>WEBPACK</h5>
     </div>
   <div class="cover-container">
-        <img src="/src/assets/webpack-logo.png" alt="" />
+        <img src="/src/assets/webpack-logo.png" alt="Webpack Logo" />
     </div>
   </div>
 </template>

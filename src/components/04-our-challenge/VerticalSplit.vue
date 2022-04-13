@@ -12,7 +12,7 @@ export default {
     </div>
         <div class="flex flex-col grow items-center justify-center">
         <img
-          class="schema-full-screen" src="/src/assets/vertical_split.png" alt="" />
+          class="schema-full-screen" src="/src/assets/vertical_split.png" alt="Vertical vs Horizontal Split Schema" />
     </div>
   </div>
 </template>

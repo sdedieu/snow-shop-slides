@@ -13,7 +13,7 @@ export default {
       <img
         class="schema-full-screen"
         src="/src/assets/when-to-use-it.png"
-        alt=""
+        alt="When to use it Schema"
       />
     </div>
   </div>

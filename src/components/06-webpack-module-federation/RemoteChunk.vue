@@ -33,21 +33,21 @@ export default {
           <img
             class="m0 h-24 absolute bottom-0 left-5 z-30"
             src="/src/assets/closed-box.png"
-            alt=""
+            alt="Box"
           />
           <img
             class="m0 h-52 absolute bottom-16 left-0 z-0"
             src="/src/assets/remote-chunk.png"
-            alt=""
+            alt="Remote Chunk"
           />
           <img
             class="m0 h-52 absolute bottom-14 left-24 z-0"
             src="/src/assets/remote-chunk.png"
-            alt=""
+            alt="Remote Chunk"
           />
         </div>
-        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="" />
-        <img class="m0 h-32" src="/src/assets/bundle.png" alt="" />
+        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="Arrow" />
+        <img class="m0 h-32" src="/src/assets/bundle.png" alt="Bundle" />
       </div>
     </div>
   </div>

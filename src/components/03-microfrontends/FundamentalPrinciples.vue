@@ -11,13 +11,13 @@ export default {
     </div>
     <div class="grid grow md:gap-4 grid-cols-3">
       <div class="col-span-2 p-1 md:p-4 flex flex-row items-center justify-center">
-        <img class="w-full md:w-3/4" src="/src/assets/mf_principles.png" alt="" />
+        <img class="w-full md:w-3/4" src="/src/assets/mf_principles.png" alt="Microfrontends principles" />
       </div>
       <div class="p-1 md:p-12 flex flex-row items-center justify-center">
         <img
           class="w-full md:w-3/4"
           src="/src/assets/luca_mezzalira_building_mf.jpeg"
-          alt=""
+          alt="Building Microfrontends - Luca Mezzalira"
         />
       </div>
     </div>

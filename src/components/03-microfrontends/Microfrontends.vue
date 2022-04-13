@@ -15,9 +15,6 @@ export default {
     <section id="fundamental-principles" data-auto-animate>
       <FundamentalPrinciples />
     </section>
-    <section id="ddd" data-auto-animate>
-      <DDD />
-    </section>
   </section>
 </template>
 

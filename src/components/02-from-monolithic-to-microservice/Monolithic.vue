@@ -14,7 +14,7 @@ export default {
         <img
           class="schema-full-screen"
           src="/src/assets/monolithic.png"
-          alt=""
+          alt="Monolithic architecture"
         />
         <div class="absolute bottom-2 right-2 text-sm text-devoxx-cyan">
           Schéma tiré du livre "Building Micro-frontends" – Luca Mezzalira

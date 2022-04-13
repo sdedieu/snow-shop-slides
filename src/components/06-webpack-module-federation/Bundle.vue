@@ -28,12 +28,12 @@ export default {
           pb-14
         "
       > <div class="relative h-52 w-52 flex flex-row items-end justify-center">
-        <img class="m0 h-24 absolute bottom-0 left-0 z-30" src="/src/assets/closed-box.png" alt="" />
-        <img class="m0 h-24 absolute bottom-10 left-12 z-10" src="/src/assets/closed-box.png" alt="" />
-        <img class="m0 h-24 absolute bottom-5 left-20 z-20" src="/src/assets/closed-box.png" alt="" />
+        <img class="m0 h-24 absolute bottom-0 left-0 z-30" src="/src/assets/closed-box.png" alt="Box" />
+        <img class="m0 h-24 absolute bottom-10 left-12 z-10" src="/src/assets/closed-box.png" alt="Box" />
+        <img class="m0 h-24 absolute bottom-5 left-20 z-20" src="/src/assets/closed-box.png" alt="Box" />
         </div>
-        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="" />
-        <img class="m0 h-32" src="/src/assets/bundle.png" alt="" />
+        <img class="m0 h-32" src="/src/assets/webpack-arrow.png" alt="Arrow" />
+        <img class="m0 h-32" src="/src/assets/bundle.png" alt="Bundle" />
       </div>
     </div>
   </div>
