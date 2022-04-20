@@ -7,10 +7,10 @@ export default {
 
 <template>
   <section id="thankings">
-    <section id="thanks">
+    <section id="thanks" data-auto-animate>
       <Thanks />
     </section>
-    <section id="special-thank">
+    <section id="special-thank" data-auto-animate>
       <SpecialThanks />
     </section>
   </section>

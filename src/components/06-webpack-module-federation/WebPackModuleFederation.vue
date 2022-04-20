@@ -6,7 +6,7 @@ export default {
 
 <template>
   <section id="webpack-module-federation">
-    <section id="cover">
+    <section id="cover" data-auto-animate>
       <WebPackCover />
     </section>
     <section id="chunk" data-auto-animate>
@@ -18,7 +18,7 @@ export default {
     <section id="remote-chunk" data-auto-animate>
       <RemoteChunk />
     </section>
-    <section id="config">
+    <section id="config" data-auto-animate>
       <Config />
     </section>
   <!--  <section id="when-to-use-it">

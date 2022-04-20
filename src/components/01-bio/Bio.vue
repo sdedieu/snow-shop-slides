@@ -7,10 +7,10 @@ export default {
 
 <template>
   <section id="bio">
-    <section id="my-bio">
+    <section id="my-bio" data-auto-animate>
 <MyBio />
     </section>
-    <section id="manfred-bio">
+    <section id="manfred-bio" data-auto-animate>
 <ManfredsBio />
     </section>
     

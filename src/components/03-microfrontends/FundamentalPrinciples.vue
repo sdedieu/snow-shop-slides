@@ -9,7 +9,7 @@ export default {
     <div class="slide-title">
       <h5>LES PRINCIPES FONDAMENTAUX</h5>
     </div>
-    <div class="grid grow md:gap-4 grid-cols-3">
+    <div class="grid grow md:gap-4 grid-cols-3 mb-3">
       <div class="col-span-2 p-1 md:p-4 flex flex-row items-center justify-center">
         <img class="w-full md:w-3/4" src="/src/assets/mf_principles.png" alt="Microfrontends principles" />
       </div>
@@ -21,7 +21,7 @@ export default {
         />
       </div>
     </div>
-    <div class="absolute bottom-2 left-24 text-sm text-devoxx-cyan">
+    <div class="absolute bottom-6 left-14 md:left-32 text-sm text-devoxx-cyan">
       Schéma tiré du livre "Building Micro-frontends" – Luca Mezzalira
     </div>
   </div>

@@ -9,11 +9,11 @@ export default {
     <div class="slide-title">
       <h5>LE DOMAIN DRIVEN DESIGN (DDD)</h5>
     </div>
-<div class="grid grow md:gap-4 grid-cols-3">
+<div class="grid grow md:gap-4 grid-cols-3 mb-3">
       <div class="col-span-2 p-1 md:p-4 flex flex-row items-center justify-center">
         <img class="w-full md:w-3/4" src="/src/assets/domain_driven_design.png" alt="Domain Driven Design" />
       </div>
-      <div class="relative p-1 md:p-12 flex flex-row items-center justify-center">
+      <div class="relative p-1 md:p-12 flex flex-row items-center justify-center mb-3">
          <img class="w-full md:w-3/4" src="/src/assets/ddd_eric_evans.jpeg" alt="Domain Driven Design - Eric Evans" />
         <img
           class="absolute left-0 bottom-8 md:bottom-0 w-2/3 md:w-1/2"
@@ -22,7 +22,7 @@ export default {
         />
       </div>
     </div>
-    <div class="absolute bottom-2 left-24 text-sm text-devoxx-cyan">
+    <div class="absolute bottom-6 left-14 md:left-32 text-sm text-devoxx-cyan">
       Schéma tiré du livre "DDD, Nx Monorepos and Micro Frontends" – Manfred
       Steyer
     </div>

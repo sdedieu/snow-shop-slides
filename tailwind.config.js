@@ -10,7 +10,8 @@ module.exports = {
         'background': "url('/src/assets/background.png')",
         'thanks': "url('/src/assets/thanks.png')",
         'bundleyourscript': "url('/src/assets/bundle-your-script.png')",
-        'closedbox': "url('/src/assets/closed-box.png')"
+        'closedbox': "url('/src/assets/closed-box.png')",
+        'bgdevoxxfr': "url('/src/assets/fond_ecran_1080.png')"
       },
       colors: {
         'devoxx-green': '#236148',

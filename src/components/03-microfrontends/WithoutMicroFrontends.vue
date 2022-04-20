@@ -15,7 +15,7 @@ export default {
           src="/src/assets/without_microfrontends.png"
           alt="Microservices architecture"
         />
-        <div class="absolute bottom-2 right-2 text-sm text-devoxx-cyan">
+        <div class="absolute bottom-6 left-14 md:left-32 text-sm text-devoxx-cyan">
           Schéma tiré du livre "Building Micro-frontends" – Luca Mezzalira
         </div>
       </div>

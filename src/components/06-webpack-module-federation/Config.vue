@@ -11,7 +11,7 @@ export default {
     <div class="slide-title">
       <h5>WEBPACK MODULE FEDERATION</h5>
     </div>
-<div class="code-col-grid">
+<div class="code-col-grid mb-8">
        <div class="code-col">
         <h4>Remote</h4>
         <div class="text-base self-start"># webpack.config.js</div>

@@ -7,10 +7,10 @@ export default {
 
 <template>
   <section id="angular-demo">
-  <section id="cover">
+  <section id="cover" data-auto-animate>
     <AngularDemoCover />
   </section>
-    <section id="code">
+    <section id="code" data-auto-animate>
     <AngularDemoCode />
   </section>
   </section>

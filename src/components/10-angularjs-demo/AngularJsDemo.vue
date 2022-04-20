@@ -6,10 +6,10 @@ export default {
 
 <template>
   <section id="angularjs-demo">
-    <section id="cover">
+    <section id="cover" data-auto-animate>
       <AngularJsDemoCover />
     </section>
-    <section id="code-native-element">
+    <section id="code-native-element" data-auto-animate>
       <AngularJsDemoCodeNativeElement />
     </section>
   </section>
