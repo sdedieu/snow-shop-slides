@@ -31,7 +31,7 @@ export default {
         <AngularJsDemo />
         <Thankings />
           <img
-          class="absolute bottom-0 w-full m0 h-4 z-20"
+          class="absolute bottom-0 w-full m0 h-3 z-20"
           src="/src/assets/separateur.png"
           alt="Devoxx bottom separator"
         />
