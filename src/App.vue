@@ -13,6 +13,11 @@ export default {
           src="/src/assets/Logo-Kaizen-black.png"
           alt="Kaizen Logo Black"
         />
+          <img
+            class="absolute bottom-0 w-full z-50 rounded-md bg-black w-36 right-2 voxxed-logo"
+            src="/src/assets/voxxed-logo.png"
+            alt="Voxxed Days Luxembourg Logo"
+          />
         <Cover />
         <Bio />
         <FromMonolithicToMicroservice />
@@ -34,5 +39,9 @@ export default {
 #app,
 section {
   @apply w-full h-full;
+}
+
+.voxxed-logo {
+  @apply m-2 !important;
 }
 </style>
