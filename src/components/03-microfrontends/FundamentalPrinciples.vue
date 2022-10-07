@@ -9,7 +9,7 @@ export default {
     <div class="slide-title">
       <h5>FUNDAMENTAL PRINCIPLES</h5>
     </div>
-    <div class="grow sm:pb-16 pb-12 flex flex-col">
+    <div class="grow sm:pb-24 pb-12 flex flex-col">
       <div class="grid grow md:gap-4 grid-cols-3">
         <div
           class="
