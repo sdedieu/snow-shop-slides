@@ -1,7 +1,7 @@
 <script>
 
 export default {
-  name: "Thankings",
+    name: "Thankings"
 };
 </script>
 
@@ -12,6 +12,9 @@ export default {
     </section>
     <section id="special-thank">
       <SpecialThanks />
+    </section>
+    <section id="selfie">
+      <Selfie />
     </section>
   </section>
 </template>

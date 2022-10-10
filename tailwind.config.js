@@ -9,6 +9,7 @@ module.exports = {
         'laptop': "url('/src/assets/laptop-background.png')",
         'background': "url('/src/assets/background.png')",
         'thanks': "url('/src/assets/thanks.png')",
+        'selfie': "url('/src/assets/selfie.jpg')",
         'bundleyourscript': "url('/src/assets/bundle-your-script.png')",
         'closedbox': "url('/src/assets/closed-box.png')"
       },

@@ -48,6 +48,11 @@ div.cover-container.thanks {
   @apply bg-thanks;
 }
 
+div.cover-container.selfie {
+  @apply bg-selfie;
+}
+
+
 div.cover-container img {
   @apply w-96;
 }
