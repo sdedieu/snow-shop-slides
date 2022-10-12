@@ -15,6 +15,7 @@
         />
       </div>
      <div class="qr-code">
+      <h6 class="qr-code-title">Get the slides here :</h6>
         <img class="m0" src="/src/assets/qrc.png" alt="Slides QR Code" />
       </div>
     </div>
@@ -31,6 +32,6 @@
 }
 
 #cover div.qr-code {
-  @apply absolute bottom-12 right-0 m-4 w-16 m-6 md:w-44;
+  @apply absolute text-sm md:text-xl bottom-12 right-0 m-4 w-16 m-6 md:w-44;
 }
 </style>
